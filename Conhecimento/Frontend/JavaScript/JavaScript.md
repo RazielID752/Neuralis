@@ -34,6 +34,7 @@ Objetivo: entender como o codigo guarda valores, compara coisas e toma decisoes.
 
 - [[Funcoes e Callbacks]]
 - [[Closures]]
+- [[Conhecimento/Frontend/Logica/Logica de Programacao para Frontend|Logica de Programacao para Frontend]]
 
 Objetivo: entender funcoes, parametros, retorno, callbacks e como funcoes lembram valores.
 
@@ -54,12 +55,16 @@ Objetivo: entender como JavaScript conversa com HTML antes de ir fundo em React.
 - [[Timers setTimeout setInterval]]
 - [[Promises]]
 - [[Async Await]]
+- [[Event Loop]]
+- [[Conhecimento/Frontend/Dados/Exemplos de Consumo de API|Exemplos de Consumo de API]]
 
 Objetivo: entender codigo que nao termina imediatamente: timers, APIs, fetch, carregamento e erro.
 
 ### 6. Organizar codigo
 
 - [[Modules]]
+- [[Imutabilidade]]
+- [[Tratamento de Erros em JavaScript]]
 
 Objetivo: separar codigo em arquivos e importar/exportar funcoes.
 
@@ -85,4 +90,3 @@ Objetivo: separar codigo em arquivos e importar/exportar funcoes.
 ## Resumo mental
 
 JavaScript e sobre fluxo: guardar valores, transformar dados, tomar decisoes, reagir a eventos e lidar com coisas que acontecem depois.
-

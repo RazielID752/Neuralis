@@ -46,6 +46,9 @@ Objetivo: criar telas com flex, grid e breakpoints.
 - [[Estados no Tailwind]]
 - [[Tema e Configuracao do Tailwind]]
 - [[Componentizacao com Tailwind]]
+- [[Variantes com clsx]]
+- [[Tailwind Merge]]
+- [[Dark Mode no Tailwind]]
 
 Objetivo: criar componentes consistentes sem repetir bagunca.
 
@@ -68,4 +71,3 @@ Objetivo: criar componentes consistentes sem repetir bagunca.
 ## Resumo mental
 
 Tailwind e uma forma rapida de escrever CSS, mas nao substitui entender layout, responsividade e estados.
-

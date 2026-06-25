@@ -36,7 +36,9 @@ Objetivo: entender como TypeScript enxerga valores comuns.
 ### 2. Modelar possibilidades
 
 - [[Union Types e Literal Types]]
+- [[Discriminated Unions]]
 - [[Narrowing]]
+- [[Type Guards]]
 - [[Any Unknown e Never]]
 
 Objetivo: representar valores que podem ter mais de uma forma sem perder seguranca.
@@ -51,6 +53,7 @@ Objetivo: criar tipos reutilizaveis sem deixar tudo confuso.
 ### 4. Reutilizar tipos
 
 - [[Generics]]
+- [[Satisfies]]
 
 Objetivo: criar funcoes e estruturas que funcionam com varios tipos sem usar `any`.
 
@@ -82,4 +85,3 @@ Objetivo: tipar props, children, eventos, state e componentes sem brigar com o T
 ## Resumo mental
 
 TypeScript serve para explicar ao codigo qual formato os dados devem ter. Se o tipo fica mais confuso que o problema, eu provavelmente modelei demais.
-

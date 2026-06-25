@@ -17,6 +17,12 @@
 ## Pensamento de engenharia
 
 - [[Conhecimento/Frontend/Arquitetura/Arquitetura Frontend|Arquitetura Frontend]]
+- [[Conhecimento/Frontend/Engenharia/Engenharia de Software no Frontend|Engenharia de Software no Frontend]]
+- [[Conhecimento/Frontend/Engenharia/Clean Code|Clean Code]]
+- [[Conhecimento/Frontend/Engenharia/Clean Architecture|Clean Architecture]]
+- [[Conhecimento/Frontend/Engenharia/SOLID|SOLID]]
+- [[Atlas/Grafo do Conhecimento|Grafo do Conhecimento]]
+- [[Atlas/Lacunas e Proximas Camadas|Lacunas e Proximas Camadas]]
 - [[Laboratorio/Snippets/Snippets|Snippets]]
 - [[Laboratorio/Projetos/Projetos|Projetos]]
 - [[Laboratorio/Exercicios/Exercicios|Exercicios]]

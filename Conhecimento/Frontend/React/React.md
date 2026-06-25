@@ -62,6 +62,9 @@ Objetivo: controlar inputs e sincronizar com coisas fora do React.
 ### 4. Organizacao
 
 - [[Hooks]]
+- [[Hooks Customizados]]
+- [[useReducer]]
+- [[Context API]]
 - [[Composicao em React]]
 
 Objetivo: organizar logica e UI sem criar componentes gigantes.
@@ -86,4 +89,3 @@ Objetivo: organizar logica e UI sem criar componentes gigantes.
 ## Resumo mental
 
 React e sobre descrever a tela a partir de dados. Quando os dados mudam, React redesenha o que precisa.
-

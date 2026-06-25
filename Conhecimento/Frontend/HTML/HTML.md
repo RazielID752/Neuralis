@@ -46,6 +46,9 @@ Objetivo: coletar dados do usuario de forma clara.
 ### 4. Qualidade
 
 - [[Acessibilidade em HTML]]
+- [[SEO Basico]]
+- [[Meta Tags e Open Graph]]
+- [[Tabelas]]
 
 Objetivo: criar HTML que funcione bem para pessoas, navegadores e tecnologias assistivas.
 
@@ -69,4 +72,3 @@ Objetivo: criar HTML que funcione bem para pessoas, navegadores e tecnologias as
 ## Resumo mental
 
 HTML bom e aquele que continua fazendo sentido mesmo antes do CSS e do JavaScript.
-

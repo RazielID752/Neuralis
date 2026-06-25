@@ -3,10 +3,123 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Atlas\"",
+      "color": {
+        "a": 1,
+        "rgb": 16753920
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/HTML\"",
+      "color": {
+        "a": 1,
+        "rgb": 14423100
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/CSS\"",
+      "color": {
+        "a": 1,
+        "rgb": 4360181
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/JavaScript\"",
+      "color": {
+        "a": 1,
+        "rgb": 15724527
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/TypeScript\"",
+      "color": {
+        "a": 1,
+        "rgb": 3176949
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/React\"",
+      "color": {
+        "a": 1,
+        "rgb": 39935
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/Tailwind\"",
+      "color": {
+        "a": 1,
+        "rgb": 3705822
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/Arquitetura\"",
+      "color": {
+        "a": 1,
+        "rgb": 10824234
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/Engenharia\"",
+      "color": {
+        "a": 1,
+        "rgb": 12533836
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/Dados\"",
+      "color": {
+        "a": 1,
+        "rgb": 3121671
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/Logica\"",
+      "color": {
+        "a": 1,
+        "rgb": 14524637
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/Estruturas-de-Dados\"",
+      "color": {
+        "a": 1,
+        "rgb": 11403055
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/Orientacao-a-Objetos\"",
+      "color": {
+        "a": 1,
+        "rgb": 6697881
+      }
+    },
+    {
+      "query": "path:\"Conhecimento/Frontend/Testes\" OR path:\"Conhecimento/Frontend/Debugging\" OR path:\"Conhecimento/Frontend/Performance\" OR path:\"Conhecimento/Frontend/Seguranca\" OR path:\"Conhecimento/Frontend/Acessibilidade\"",
+      "color": {
+        "a": 1,
+        "rgb": 13632027
+      }
+    },
+    {
+      "query": "path:\"Laboratorio\"",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:\"Templates\" OR path:\"Recursos\" OR path:\"Inbox\"",
+      "color": {
+        "a": 1,
+        "rgb": 10066329
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -16,7 +129,7 @@
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0998330764578612,
+  "linkDistance": 180,
+  "scale": 0.9668829145750528,
   "close": false
 }

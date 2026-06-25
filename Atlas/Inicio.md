@@ -10,6 +10,8 @@ Este vault e um cerebro de estudos para desenvolvimento frontend.
 - [[Atlas/Projetos e Pratica|Projetos e Pratica]]
 - [[Atlas/Perguntas Abertas|Perguntas Abertas]]
 - [[Recursos/Como usar este cerebro|Como usar este cerebro]]
+- [[Atlas/Lacunas e Proximas Camadas|Lacunas e Proximas Camadas]]
+- [[Atlas/Grafo do Conhecimento|Grafo do Conhecimento]]
 
 ## Areas
 

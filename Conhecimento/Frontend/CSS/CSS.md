@@ -43,8 +43,11 @@ Objetivo: alinhar e organizar elementos sem tentativa e erro infinita.
 ### 3. Tela real
 
 - [[Responsividade]]
+- [[Container Queries]]
 - [[Estados Visuais CSS]]
 - [[Variaveis CSS]]
+- [[Stacking Context]]
+- [[Animacoes e Transicoes]]
 
 Objetivo: criar UI que funciona em tamanhos diferentes e responde a interacao.
 
@@ -68,4 +71,3 @@ Objetivo: criar UI que funciona em tamanhos diferentes e responde a interacao.
 ## Resumo mental
 
 CSS e caixa, cascata e layout. Quando entendo esses tres, o resto fica menos misterioso.
-

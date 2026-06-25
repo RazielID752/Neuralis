@@ -42,6 +42,9 @@ Objetivo:
 - [[Conhecimento/Frontend/JavaScript/Operadores e Comparacoes|Operadores e Comparacoes]]
 - [[Conhecimento/Frontend/JavaScript/Booleanos e Condicionais|Booleanos e Condicionais]]
 - [[Conhecimento/Frontend/JavaScript/Funcoes e Callbacks|Funcoes e Callbacks]]
+- [[Conhecimento/Frontend/Logica/Logica de Programacao para Frontend|Logica de Programacao para Frontend]]
+- [[Conhecimento/Frontend/Logica/Como Quebrar um Problema|Como Quebrar um Problema]]
+- [[Conhecimento/Frontend/Logica/Como Criar Funcoes Pequenas|Como Criar Funcoes Pequenas]]
 - [[Conhecimento/Frontend/JavaScript/Loops|Loops]]
 - [[Conhecimento/Frontend/JavaScript/DOM e Eventos|DOM e Eventos]]
 - [[Conhecimento/Frontend/JavaScript/Arrays e Objetos|Arrays e Objetos]]
@@ -123,9 +126,70 @@ Objetivo:
 ## Fase 6: Arquitetura e pratica
 
 - [[Conhecimento/Frontend/Arquitetura/Arquitetura Frontend|Arquitetura Frontend]]
+- [[Conhecimento/Frontend/Arquitetura/Organizacao de Pastas|Organizacao de Pastas]]
+- [[Conhecimento/Frontend/Arquitetura/Separacao de Responsabilidades|Separacao de Responsabilidades]]
+- [[Conhecimento/Frontend/Arquitetura/Componentes UI vs Feature|Componentes UI vs Feature]]
+- [[Conhecimento/Frontend/Arquitetura/Client State vs Server State|Client State vs Server State]]
+- [[Conhecimento/Frontend/Arquitetura/Camada de API|Camada de API]]
+- [[Conhecimento/Frontend/Arquitetura/Estados de UI Loading Empty Error Success|Estados de UI Loading Empty Error Success]]
+- [[Conhecimento/Frontend/Arquitetura/Tratamento de Erros no Frontend|Tratamento de Erros no Frontend]]
+- [[Conhecimento/Frontend/Arquitetura/Checklist de Arquitetura Frontend|Checklist de Arquitetura Frontend]]
+- [[Conhecimento/Frontend/Engenharia/Engenharia de Software no Frontend|Engenharia de Software no Frontend]]
+- [[Conhecimento/Frontend/Engenharia/Clean Code|Clean Code]]
+- [[Conhecimento/Frontend/Engenharia/Clean Architecture|Clean Architecture]]
+- [[Conhecimento/Frontend/Engenharia/SOLID|SOLID]]
+- [[Conhecimento/Frontend/Engenharia/SRP Single Responsibility Principle|SRP Single Responsibility Principle]]
+- [[Conhecimento/Frontend/Engenharia/OCP Open Closed Principle|OCP Open Closed Principle]]
+- [[Conhecimento/Frontend/Engenharia/ISP Interface Segregation Principle|ISP Interface Segregation Principle]]
+- [[Conhecimento/Frontend/Engenharia/DIP Dependency Inversion Principle|DIP Dependency Inversion Principle]]
+- [[Conhecimento/Frontend/Engenharia/Code Smells no Frontend|Code Smells no Frontend]]
+- [[Conhecimento/Frontend/Engenharia/Refatoracao Guiada|Refatoracao Guiada]]
+- [[Conhecimento/Frontend/Engenharia/Arquitetura na Pratica em React|Arquitetura na Pratica em React]]
+- [[Conhecimento/Frontend/Engenharia/Exemplo de Estrutura de Projeto Frontend|Exemplo de Estrutura de Projeto Frontend]]
 - [[Laboratorio/Projetos/App de Tarefas|App de Tarefas]]
 - [[Laboratorio/Projetos/Dashboard Frontend|Dashboard Frontend]]
 - [[Laboratorio/Projetos/Portfolio Pessoal|Portfolio Pessoal]]
+
+## Fase 7: Dados, qualidade e manutenção
+
+- [[Conhecimento/Frontend/Dados/Dados e APIs|Dados e APIs]]
+- [[Conhecimento/Frontend/Dados/Fetch API|Fetch API]]
+- [[Conhecimento/Frontend/Dados/Exemplos de Consumo de API|Exemplos de Consumo de API]]
+- [[Conhecimento/Frontend/Dados/CRUD com API|CRUD com API]]
+- [[Conhecimento/Frontend/Dados/Validacao de Dados da API|Validacao de Dados da API]]
+- [[Conhecimento/Frontend/Debugging/Debugging Frontend|Debugging Frontend]]
+- [[Conhecimento/Frontend/Testes/Testes Frontend|Testes Frontend]]
+- [[Conhecimento/Frontend/Seguranca/Seguranca Frontend|Seguranca Frontend]]
+
+## Fase 8: Aprofundamento por tecnologia
+
+### JavaScript
+
+- [[Conhecimento/Frontend/JavaScript/Event Loop|Event Loop]]
+- [[Conhecimento/Frontend/JavaScript/Imutabilidade|Imutabilidade]]
+- [[Conhecimento/Frontend/JavaScript/Tratamento de Erros em JavaScript|Tratamento de Erros em JavaScript]]
+
+### TypeScript
+
+- [[Conhecimento/Frontend/TypeScript/Discriminated Unions|Discriminated Unions]]
+- [[Conhecimento/Frontend/TypeScript/Type Guards|Type Guards]]
+- [[Conhecimento/Frontend/TypeScript/Satisfies|Satisfies]]
+
+### React
+
+- [[Conhecimento/Frontend/React/Hooks Customizados|Hooks Customizados]]
+- [[Conhecimento/Frontend/React/useReducer|useReducer]]
+- [[Conhecimento/Frontend/React/Context API|Context API]]
+
+### HTML, CSS e Tailwind
+
+- [[Conhecimento/Frontend/HTML/SEO Basico|SEO Basico]]
+- [[Conhecimento/Frontend/CSS/Container Queries|Container Queries]]
+- [[Conhecimento/Frontend/CSS/Stacking Context|Stacking Context]]
+- [[Conhecimento/Frontend/CSS/Animacoes e Transicoes|Animacoes e Transicoes]]
+- [[Conhecimento/Frontend/Tailwind/Variantes com clsx|Variantes com clsx]]
+- [[Conhecimento/Frontend/Tailwind/Tailwind Merge|Tailwind Merge]]
+- [[Conhecimento/Frontend/Tailwind/Dark Mode no Tailwind|Dark Mode no Tailwind]]
 
 Objetivo:
 
